@@ -1,4 +1,4 @@
 DavaApp
 =======
 
-DavaApp is an opnes source Chemist, Doctor, Health Institution, Health Services and later medicine locator for all of India.
+DavaApp is an open source pan India Chemist, Doctor, Health Institution, Health Services and later Medicine locator.
